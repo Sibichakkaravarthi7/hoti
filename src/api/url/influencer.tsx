@@ -1,0 +1,1 @@
+export const GET_INFLUENCER_PROFILE = (id: string) => `/accounts/influencer/${id}`;
